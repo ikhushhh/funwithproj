@@ -1,1 +1,3 @@
-# funwithproj
+# FunWithProj
+
+Few web projects
