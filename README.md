@@ -1,3 +1,3 @@
 # FunWithProj
 
-Few web projects
+A project with Mongoose, Ejs and Express
